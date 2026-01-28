@@ -22,6 +22,6 @@ Nettoyage de données : Filtrage automatique des valeurs aberrantes (châteaux, 
 
 📈 Résultats du modèleErreur Moyenne (MAE) : Environ 21 000 € sur le prix total des biens.Score $R^2$ : Précision constante sur le marché tourangeau entre 2021 et 2025.
 
-👤 Auteur Eddy De Castro étudiant en Data Science
+👤 Auteur Eddy De Castro étudiant en Informatique spécialisé en IA et Data (Prépa --> Mines Alès et en même temps une L3 de maths)
 
-Projet réalisé dans le cadre de l'apprentissage des algorithmes de régression et de clustering.
+Projet réalisé dans le cadre de l'apprentissage des algorithmes de régression, clustering et de SK Learn.
