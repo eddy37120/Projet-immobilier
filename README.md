@@ -38,8 +38,13 @@ Nettoyage de données : Filtrage automatique des valeurs aberrantes (châteaux, 
 
 Voici quelques graphiques intéressant:
 <img width="1090" height="700" alt="image" src="https://github.com/user-attachments/assets/74fcf107-4c39-47ff-b234-45c7f104308c" />
+<img width="982" height="854" alt="image" src="https://github.com/user-attachments/assets/fbeaf3bd-69da-4991-ae26-f9a1d3ce3a59" />
+<img width="850" height="546" alt="image" src="https://github.com/user-attachments/assets/53b0e286-9f5f-43b0-8bb4-d79c590c85e2" />
+<img width="992" height="547" alt="image" src="https://github.com/user-attachments/assets/28ca0b34-ac45-4ab7-8fd2-77b125610344" />
+l'emplacement compte pour beaucoup (il apparait sous plusieurs formes)
+<img width="602" height="454" alt="image" src="https://github.com/user-attachments/assets/33c7990a-ba72-4169-9be4-433732848e9e" />
 
 
 👤 Auteur Eddy De Castro étudiant en Informatique spécialisé en IA et Data (Prépa --> Mines Alès et en même temps une L3 de maths)
 
-Projet réalisé dans le cadre de l'apprentissage des algorithmes de régression, clustering et de SK Learn.
+Projet réalisé dans le cadre de l'apprentissage des modèles de régression, clustering, Random Forest, K-NN et K Means.
